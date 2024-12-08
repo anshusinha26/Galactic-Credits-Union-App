@@ -1,4 +1,4 @@
-# Galactic Credits Union App
+# 🏦 Galactic Credits Union App
 
 A website showcasing essential banking features in a futuristic theme. The app provides a user-friendly interface to perform basic financial operations such as loans, transfers, and account management, with additional functionalities for sorting transaction data.
 
